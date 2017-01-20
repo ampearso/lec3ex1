@@ -1,6 +1,9 @@
 A: Aaron Pearson
 B: Saskia DeVries
 C: Parisa Soraya
+<<<<<<< HEAD
 C: Parisa Soraya
 
 New: Saskia (again!)
+=======
+>>>>>>> parent of 59a2c90... parisa add name
